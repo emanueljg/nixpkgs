@@ -4077,4 +4077,14 @@
     };
     version = "1.5.5";
   };
+  zlib = {
+    groups = ["default"];
+    platforms = [];
+    source = {
+      remotes = ["https://rubygems.org"];
+      # sha256 = "1hc87pbmgc53lksa1aql61kxn9d2kjzmlhnjxa5rcn01qhm3pkvg";
+      type = "gem";
+    };
+    version = "3.1.1";
+  };
 }
