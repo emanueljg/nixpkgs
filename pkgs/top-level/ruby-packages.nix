@@ -4082,6 +4082,7 @@
     platforms = [];
     source = {
       remotes = ["https://rubygems.org"];
+      sha256 = "1hc87pbmgc53lksa1aql61kxn9d2kjzmlhnjxa5rcn01qhm3pkvg";
       # sha256 = "1hc87pbmgc53lksa1aql61kxn9d2kjzmlhnjxa5rcn01qhm3pkvg";
       type = "gem";
     };
